@@ -1,0 +1,24 @@
+/* Styles for reusable button class */
+.button {
+    color: white;
+    background-color: blue;
+    font-style: italic;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+/* Parent and child element styles */
+header {
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+main {
+    font-family: Arial, sans-serif;
+}
+
+main p {
+    color: green;
+    font-size: 18px;
+}
